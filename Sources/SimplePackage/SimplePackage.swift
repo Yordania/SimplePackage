@@ -3,4 +3,8 @@ public struct SimplePackage {
 
     public init() {
     }
+    
+    public func newFunction() {
+        
+    }
 }
